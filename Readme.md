@@ -60,7 +60,7 @@ This project demonstrates an end-to-end retail analytics workflow, from data pre
 
 ## Project Files
 
-- `Rossmann_Sales_Analytics_Complete_EDA.ipynb` — notebook containing the analysis and modeling workflow.
+- `Rossmann_Sales_Analytics_Final.ipynb` — notebook containing the analysis and modeling workflow.
 
 ## Dataset Source
 
